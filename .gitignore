@@ -1,0 +1,5 @@
+Datasets/*
+fonts/*
+.ipynb_checkpoints/*
+traffic/*
+titanic.tfsnap/*
